@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Цветок 1",
+        "areal": "Ареал 1",
+        "regions": "Регион 1",
+        "pochvs": "Почва 1",
+        "pharmacop": "",
+        "redbook": "true",
+        "sowing": "",
+        "req": "",
+        "collect": "",
+        "him_sostav": "",
+        "med_list": ""
+    },
+    {
+        "name": "Цветок 2",
+        "areal": "Ареал 2",
+        "regions": "Регион 2",
+        "pochvs": "Почва 2",
+        "pharmacop": "",
+        "redbook": "false",
+        "sowing": "",
+        "req": "",
+        "collect": "",
+        "him_sostav": "",
+        "med_list": ""
+    }
+]
